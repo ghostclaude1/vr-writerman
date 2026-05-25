@@ -1,0 +1,7 @@
+interface:
+  display_name: "MDPDTWDD Report Writing"
+  short_description: "Vietnamese academic report drafting for MDPDTWDD"
+  default_prompt: "Use $mdpdtwdd-report-writing to draft or review a Vietnamese MDPDTWDD report section from repo-local evidence."
+
+policy:
+  allow_implicit_invocation: true
